@@ -1,0 +1,51 @@
+body {   
+      position: relative;
+      outline: 5px hidden blue;
+      margin: 50px 50px;
+      border-style: solid;
+      border-width: 5px;
+      border-color: red;
+      border-radius: 5px;
+      background-color: lightblue;
+}
+ 
+h1 {
+    font-size: 70px;
+    color:blue;
+    text-align: center;
+}
+h2 {
+    padding: 15px;
+    text-align: center;
+    font-size: 25px; 
+}
+h3{
+      margin: 40px 70px 20px 80px;
+}
+ul {     
+    font-family: verdana;
+    font-size: 25px;
+    margin: 20px 100px;
+}
+#stretch {
+    height: auto;
+    width: 90%;
+      margin: 0px 50px;
+ 
+}  
+p{
+    padding: 10px;
+    margin: 20px 110px;
+    font-size: 25px; 
+  
+}
+p2{
+    position: relative;
+    margin-left: 110px;
+    margin-bottom: 50px;
+    font-size: 30px;   
+}
+p3{
+ 
+    font-size: 30px;   
+}
